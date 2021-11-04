@@ -1,0 +1,2 @@
+# ContohRepository
+Ini adalah Repository
